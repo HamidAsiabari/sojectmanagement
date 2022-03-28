@@ -5,5 +5,8 @@ Is a software that help software project team in managment, development, and mon
 also here project manager can use 
 
 
-
-
+- project management
+- HRM management
+- repository 
+- Finance 
+- server management
