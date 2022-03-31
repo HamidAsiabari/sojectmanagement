@@ -19,3 +19,8 @@ plan your project assign tasks. Also you can get help and services from soject w
 
 
 each user can have different company and each company has own projects
+
+
+--company
+---projects
+----tasks
