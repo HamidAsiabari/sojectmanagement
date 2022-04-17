@@ -25,9 +25,14 @@ In this section of application client can create a task which a developpment req
 
 
 
-each user can have different company and each company has own projects
+each user can have different company and each company has its own projects
 
 
 --company
 ---projects
 ----tasks
+
+
+webserver: Golang
+
+webapp: ReactJS
