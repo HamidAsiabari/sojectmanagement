@@ -29,7 +29,9 @@ each user can have different company and each company has its own projects
 
 
 --company
+
 ---projects
+
 ----tasks
 
 
